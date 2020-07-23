@@ -17,3 +17,4 @@ class Song
   def self.all
     @@songs
   end
+end 
